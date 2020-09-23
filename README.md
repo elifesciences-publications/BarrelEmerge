@@ -1,3 +1,6 @@
+This code is associated with the paper from James et al., "Modelling the emergence of whisker
+barrels". eLife, 2020. http://doi.org/10.7554/eLife.55588
+
 # BarrelEmerge
 
 This is a simulation of the growth of axons which demonstrates how the
